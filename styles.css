@@ -8,6 +8,16 @@
     flex-direction: column;
     gap: 6px;
 }
+.stil2 {
+    width: 300px;
+    align-items: left;
+    border: 1px, solid, black;
+    border-radius: 12px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
 
 .slika {
     width: 155px;
